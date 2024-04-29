@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c6d70407b8f7c5c4b99f58099b99ca56
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hayBalePrefab: {instanceID: 0}
+  - haySpawnpoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
